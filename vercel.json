@@ -11,6 +11,10 @@
     {
       "src": "script.js",
       "use": "@vercel/static"
+    },
+    {
+      "src": "spinner.gif",
+      "user": "@vercel/static"
     }
   ],
   "routes": [
