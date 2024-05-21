@@ -1,20 +1,8 @@
 {
   "builds": [
     {
-      "src": "index.html",
+      "src": "/*",
       "use": "@vercel/static"
-    },
-    {
-      "src": "styles.css",
-      "use": "@vercel/static"
-    },
-    {
-      "src": "script.js",
-      "use": "@vercel/static"
-    },
-    {
-      "src": "spinner.gif",
-      "user": "@vercel/static"
     }
   ],
   "routes": [
